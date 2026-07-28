@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+~$*
+
+# Temporary / scratch files
+scratch/
+
+# Environment
+.env
+*.log
+
+# Large data directories and files (GitHub max file size is 100MB)
+Paper1_Reproduction/01_dataset/
+Paper1_Reproduction/02_preprocessed/
+Paper1_Reproduction/03_models/
+Paper1_Reproduction/04_generated/
+colab_upload/*.zip
+*.pth
+*.edf
+*.h5
+*.hdf5
+*.pkl
