@@ -1,5 +1,6 @@
 {
-  "sensitivity": 0.9999999999924812,
-  "specificity": 0.9999999999892473,
-  "accuracy": 1.0
+  "sensitivity": 0.0,
+  "specificity": 0.9999999999907064,
+  "accuracy": 0.299804959598774,
+  "fpr": 0.0
 }

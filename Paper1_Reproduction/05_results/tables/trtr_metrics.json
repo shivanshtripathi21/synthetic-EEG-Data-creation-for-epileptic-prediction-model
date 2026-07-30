@@ -1,7 +1,5 @@
 {
-  "sensitivity": 0.6658788722195847,
-  "specificity": 0.8964684014703259,
-  "accuracy": 0.8413206514356035,
-  "skipped_folds": [],
-  "n_valid_folds": 10
+  "sensitivity": 0.6298642533564135,
+  "specificity": 0.9185873605777214,
+  "accuracy": 0.8495251280575999
 }
